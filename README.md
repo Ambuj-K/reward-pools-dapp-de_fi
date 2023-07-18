@@ -17,7 +17,7 @@ ETHPool provides a service where people can deposit ETH and they will receive we
 
 Example:
 
-> Let say we have user **A** and **B** and team **T**.
+> Let say we have user **A** and **B** and team **T**
 >
 > **A** deposits 100, and **B** deposits 300 for a total of 400 in the pool. Now **A** has 25% of the pool and **B** has 75%. When **T** deposits 200 rewards, **A** should be able to withdraw 150 and **B** 450.
 > What if the following happens? **A** deposits then **T** deposits then **B** deposits then **A** withdraws and finally **B** withdraws.
